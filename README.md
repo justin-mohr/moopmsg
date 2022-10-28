@@ -4,7 +4,7 @@ It can send any string message and small files to your Telegram. You will need t
 
 To download 
 ```{js}
-net install moopmsg, from("https://github.com/justin-mohr/moopmsg/")
+net install moopmsg, from("https://raw.githubusercontent.com/justin-mohr/moopmsg/main")
 ```
 
 For more details on about moopmsg and its syntax
