@@ -1,5 +1,5 @@
 {smcl}
-version: 1.0.1 
+version: 1.0.2
 
 
 {title:moopmsg}
@@ -10,7 +10,7 @@ This is a program that will message you from your Telegram bot. It can send any 
 {title:Requirements}
 
 {p 4 4 2}
-You need to have at least Stata 16 and python installed on your machine. 
+You need to have at least Stata 16 and python installed on your machine. Stata seems to play the nicest with anaconda installations of Python. 
 To ensure that Stata can find your local python installation you can run "python search" to check. 
 Moopmsg will also check for the python installation {break}
 
