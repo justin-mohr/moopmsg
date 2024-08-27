@@ -1,5 +1,5 @@
 {smcl}
-version: 1.0.0 
+version: 1.0.1 
 
 
 {title:moopmsg}
@@ -30,7 +30,7 @@ To get a bot you must start a conversation with the bot father. {it: @BotFather 
 Send "/newbot" and you will be prompted for a name. This can be whatever you would like, as long it is not taken. {break}
 {it: Note that the bot name must end with the word 'bot'} {break}
 {space 1} {break}
-The BotFather will provide you with a token. This is your access to the bot. You need to provide this to moopmsg. 
+The BotFather will provide you with a token. This is your access to the bot. You need to provide this to moopmsg. Follow the link from the bot father to initalize the bot and begin the chat. 
 
 {title:Example}
 
